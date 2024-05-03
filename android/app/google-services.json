@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153723982925",
+    "project_id": "move-f8344",
+    "storage_bucket": "move-f8344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153723982925:android:18d735aac71ce5a936f804",
+        "android_client_info": {
+          "package_name": "com.example.move"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBmP2jI8fT1lHuc9rcjrrVr6K-OEoFhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
